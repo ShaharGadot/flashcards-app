@@ -1,0 +1,6 @@
+{
+  "name": "flashcards-app",
+  "version": "1.0.0",
+  "description": "Build a single-file HTML flashcards app (flip, next, shuffle) with a themed look and optional photo background, then test every button.",
+  "author": { "name": "ShaharGadot" }
+}
