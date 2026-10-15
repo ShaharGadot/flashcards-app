@@ -1,0 +1,11 @@
+{
+  "name": "shahargadot-skills",
+  "owner": { "name": "ShaharGadot" },
+  "plugins": [
+    {
+      "name": "flashcards-app",
+      "source": "./",
+      "description": "Build a single-file HTML flashcards app (flip, next, shuffle) with a themed look and optional photo background, then test every button."
+    }
+  ]
+}
